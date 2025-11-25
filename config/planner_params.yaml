@@ -1,0 +1,13 @@
+trajectory_planning: 
+  ros__parameters:
+    trajectory_params:
+      segment_duration: 5.0 
+
+    waypoints_list:
+      wp_1: [0.0, 0.0, 5.0, 0.0]
+      wp_2: [3.0, 0.0, 5.0, 0.0]
+      wp_3: [3.0, 3.0, 5.0, 1.57]
+      wp_4: [-3.0, 3.0, 5.0, 1.57]
+      wp_5: [-3.0, 6.0, 5.0, 0.0]
+      wp_6: [3.0, 6.0, 5.0, 3.14]
+      wp_7: [3.0, 8.0, 5.0, 0.0]
