@@ -1,4 +1,7 @@
-Before cloning this repository, you need to follow the README at this link to use PX4_Autopilot with my hex_6 model. Furthermore, this repository must be used with the px4_msgs package here, the QGroundControl application, and the DDS_run.sh file (which you can find here).
+Before cloning this repository, you need to follow the README at this [link](https://github.com/emanudevito14/hexacopter_model) to use PX4_Autopilot with my hex_6 model. 
+Furthermore, this repository must be used with the px4_msgs package [here](https://github.com/PX4/px4_msgs/tree/main), 
+the QGroundControl application, and the DDS_run.sh file (which you can find [here](https://github.com/RoboticsLab2025/aerial_robotics)).
+
 
 Clone this repository in ros2_ws/src
 ```
